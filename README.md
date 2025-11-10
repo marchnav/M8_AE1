@@ -81,16 +81,9 @@ F) Accesibilidad, rendimiento y SEO (criterios transversales)
 - Guardar y esperar a que GitHub Pages publique la URL.
 - Verificar que las rutas a assets/ funcionen correctamente.
 
-6) Cómo actualizar el contenido
--------------------------------
-- Investigación Inicial: editar los artículos dentro de <section id="investigacion">.
-- Ejemplos Reales: reemplazar textos y/o capturas (assets/img/ejemplo1.jpg y ejemplo2.jpg).
-- Proyectos: actualizar títulos, descripciones, etiquetas y enlaces a “Demo/Repositorio”.
-- Sobre mí: ajustar biografía, highlights y avatar (assets/img/avatar.jpg opcional).
-- Contacto: reemplazar email y enlaces de redes.
-- CSS/JS: personalización adicional en /assets/css/app.css y /assets/js/app.js.
 
-7) Lista de verificación rápida (para evaluación)
+
+6) Lista de verificación rápida (para evaluación)
 -------------------------------------------------
 [ ] Investigación Inicial completa (definición, importancia, 3 buenas prácticas).
 [ ] Dos ejemplos reales analizados con los cuatro criterios.
@@ -102,11 +95,11 @@ F) Accesibilidad, rendimiento y SEO (criterios transversales)
 [ ] Estructura de proyecto clara y limpia.
 [ ] Commit con mensaje descriptivo.
 
-8) Créditos y notas
+7) Créditos y notas
 -------------------
-- Autor: (Tu Nombre).
+- Autor: Marcelo Navarrete.
 - Stack: HTML, CSS, JS. Sin frameworks para mantener el control semántico y el aprendizaje.
 - Paleta y estilo: acento morado (#8B5CF6) coherente con la línea visual del proyecto.
-- Este README es un archivo .txt para cumplir explícitamente con la solicitud del instructor.
+
 
 
